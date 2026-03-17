@@ -1,0 +1,3392 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20260217-20260501</PERIOD>
+ <STATION>
+ <MEAN_OBS>   5.25362417E-02 </MEAN_OBS>
+ <STDV_OBS>  0.320835173     </STDV_OBS>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.101370119     </MEAN>
+ <STDV>   1.28557834E+11 </STDV>
+ <BIAS>  0.234354943     </BIAS>
+ <RMSE>  0.825580299     </RMSE>
+ <CORR>   1.33732704E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.191017181     </BIAS>
+ <RMSE>  0.817694187     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.446125448     </MEAN_OBS>
+ <STDV_OBS>  0.762510598     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         271 </NUM>
+ <MEAN>  0.436257303     </MEAN>
+ <STDV>  -4.01761670E-35 </STDV>
+ <BIAS>  0.734067917     </BIAS>
+ <RMSE>  0.575836897     </RMSE>
+ <CORR>   1.22123067E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         271 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.727380097     </BIAS>
+ <RMSE>  0.563206017     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.268029690     </MEAN_OBS>
+ <STDV_OBS>  0.629734635     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>  0.310411513     </MEAN>
+ <STDV>   1.31204309E+11 </STDV>
+ <BIAS>  0.669779420     </BIAS>
+ <RMSE>  0.553952754     </RMSE>
+ <CORR>   20472.8457     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.553532124     </BIAS>
+ <RMSE>  0.600099802     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.316356838     </MEAN_OBS>
+ <STDV_OBS>  0.697110057     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>  0.330627382     </MEAN>
+ <STDV>   1.21364734E+11 </STDV>
+ <BIAS>  0.735151470     </BIAS>
+ <RMSE>  0.620353460     </RMSE>
+ <CORR>  -4.01755242E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.737419248     </BIAS>
+ <RMSE>  0.619330227     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.314498186     </MEAN_OBS>
+ <STDV_OBS>  0.689273417     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>  0.318797618     </MEAN>
+ <STDV>   1.21364996E+11 </STDV>
+ <BIAS>  0.829566479     </BIAS>
+ <RMSE>  0.416751415     </RMSE>
+ <CORR>  -4.07950522E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.791202366     </BIAS>
+ <RMSE>  0.472302198     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.456877023     </MEAN_OBS>
+ <STDV_OBS>  0.734748185     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>  0.371103704     </MEAN>
+ <STDV>   1.34166938E+11 </STDV>
+ <BIAS>  0.698069334     </BIAS>
+ <RMSE>  0.660838664     </RMSE>
+ <CORR>   1.22123067E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.711744726     </BIAS>
+ <RMSE>  0.638891280     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.251301110     </MEAN_OBS>
+ <STDV_OBS>  0.707453609     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>  0.324455559     </MEAN>
+ <STDV>   1.22123985E+11 </STDV>
+ <BIAS>  0.619848967     </BIAS>
+ <RMSE>  0.633812308     </RMSE>
+ <CORR>   1.31204309E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.565248370     </BIAS>
+ <RMSE>  0.620833516     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.491449803     </MEAN_OBS>
+ <STDV_OBS>  0.643849790     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>  0.360237360     </MEAN>
+ <STDV>   20291.0488     </STDV>
+ <BIAS>  0.629164398     </BIAS>
+ <RMSE>  0.689382195     </RMSE>
+ <CORR>   20291.2363     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.621899188     </BIAS>
+ <RMSE>  0.691996574     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.220073000     </MEAN_OBS>
+ <STDV_OBS>  0.372811794     </STDV_OBS>
+ <EXP>
+ <ID>        6069 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.223205373     </MEAN>
+ <STDV>  -4.07940850E-35 </STDV>
+ <BIAS>  0.385491967     </BIAS>
+ <RMSE>  0.616436839     </RMSE>
+ <CORR>   1.21364480E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6069 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.361630976     </BIAS>
+ <RMSE>  0.612965584     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.225278676     </MEAN_OBS>
+ <STDV_OBS>  0.438679904     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>  0.215619728     </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.493890375     </BIAS>
+ <RMSE>  0.578358293     </RMSE>
+ <CORR>   1.31204309E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         269 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.476210207     </BIAS>
+ <RMSE>  0.580130458     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.237226188     </MEAN_OBS>
+ <STDV_OBS>  0.601430893     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.310667008     </MEAN>
+ <STDV>   1.31204309E+11 </STDV>
+ <BIAS>  0.503059804     </BIAS>
+ <RMSE>  0.559463143     </RMSE>
+ <CORR>   1.21364488E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.513107955     </BIAS>
+ <RMSE>  0.571621656     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.650000095     </MEAN_OBS>
+ <STDV_OBS>  0.739881158     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.419093937     </MEAN>
+ <STDV>   1.21364488E+11 </STDV>
+ <BIAS>  0.906041026     </BIAS>
+ <RMSE>  0.673843443     </RMSE>
+ <CORR>   1.28558096E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.894877672     </BIAS>
+ <RMSE>  0.688792050     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.222992703     </MEAN_OBS>
+ <STDV_OBS>  0.515282035     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.257655293     </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.527096570     </BIAS>
+ <RMSE>  0.464399964     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.488281548     </BIAS>
+ <RMSE>  0.471675992     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.669708252     </MEAN_OBS>
+ <STDV_OBS>  0.716394782     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.426583230     </MEAN>
+ <STDV>   1.22123067E+11 </STDV>
+ <BIAS>  0.875264406     </BIAS>
+ <RMSE>  0.605010152     </RMSE>
+ <CORR>   1.21364734E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.828563452     </BIAS>
+ <RMSE>  0.639574111     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.448912859     </MEAN_OBS>
+ <STDV_OBS>  0.675817668     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.380058676     </MEAN>
+ <STDV>  -4.07953248E-35 </STDV>
+ <BIAS>  0.605426908     </BIAS>
+ <RMSE>  0.630354583     </RMSE>
+ <CORR>   18942.8574     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.628516197     </BIAS>
+ <RMSE>  0.606274605     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.226642355     </MEAN_OBS>
+ <STDV_OBS>  0.613031387     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.270565808     </MEAN>
+ <STDV>   18942.8574     </STDV>
+ <BIAS>  0.457636565     </BIAS>
+ <RMSE>  0.722212970     </RMSE>
+ <CORR>   1.21363309E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.480221480     </BIAS>
+ <RMSE>  0.679084599     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.387591034     </MEAN_OBS>
+ <STDV_OBS>  0.538409889     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.258179933     </MEAN>
+ <STDV>  -4.09193745E-35 </STDV>
+ <BIAS>  0.551648319     </BIAS>
+ <RMSE>  0.769637644     </RMSE>
+ <CORR>   1.28558096E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.579747498     </BIAS>
+ <RMSE>  0.740869105     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.377737194     </MEAN_OBS>
+ <STDV_OBS>  0.881321251     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.391667008     </MEAN>
+ <STDV>   1.21364480E+11 </STDV>
+ <BIAS>  0.557748556     </BIAS>
+ <RMSE>  0.822534561     </RMSE>
+ <CORR>   20291.8887     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.575970232     </BIAS>
+ <RMSE>  0.803629696     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.323357552     </MEAN_OBS>
+ <STDV_OBS>  0.733300865     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.318719566     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.565989912     </BIAS>
+ <RMSE>  0.765007377     </RMSE>
+ <CORR>   1.22073129E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.552192152     </BIAS>
+ <RMSE>  0.765121877     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.193795547     </MEAN_OBS>
+ <STDV_OBS>  0.540990353     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.233611554     </MEAN>
+ <STDV>   20291.8887     </STDV>
+ <BIAS>  0.387015671     </BIAS>
+ <RMSE>  0.755738080     </RMSE>
+ <CORR>   1.21365004E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.312942296     </BIAS>
+ <RMSE>  0.820346534     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.174087614     </MEAN_OBS>
+ <STDV_OBS>  0.679042816     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.261722445     </MEAN>
+ <STDV>   20291.0469     </STDV>
+ <BIAS>  0.339150161     </BIAS>
+ <RMSE>  0.845022082     </RMSE>
+ <CORR>   1.34164193E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.444168389     </BIAS>
+ <RMSE>  0.755718768     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.210583955     </MEAN_OBS>
+ <STDV_OBS>  0.461993933     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.170858040     </MEAN>
+ <STDV>   1.33732704E+11 </STDV>
+ <BIAS>  0.533428669     </BIAS>
+ <RMSE>  0.579267979     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.552859664     </BIAS>
+ <RMSE>  0.521976531     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.167883202     </MEAN_OBS>
+ <STDV_OBS>  0.557460368     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.182229444     </MEAN>
+ <STDV>   1.34164193E+11 </STDV>
+ <BIAS>  0.611543119     </BIAS>
+ <RMSE>  0.441809833     </RMSE>
+ <CORR>   1.21364095E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.626085699     </BIAS>
+ <RMSE>  0.396958679     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.315693468     </MEAN_OBS>
+ <STDV_OBS>  0.737190843     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.319844157     </MEAN>
+ <STDV>   1.21364095E+11 </STDV>
+ <BIAS>  0.457767040     </BIAS>
+ <RMSE>  0.844988585     </RMSE>
+ <CORR>   1.22073129E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.407126606     </BIAS>
+ <RMSE>  0.866190791     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.311678827     </MEAN_OBS>
+ <STDV_OBS>  0.761985064     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.359669566     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.498482287     </BIAS>
+ <RMSE>  0.759964883     </RMSE>
+ <CORR>   1.22123067E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.549077988     </BIAS>
+ <RMSE>  0.716292918     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.430769026     </MEAN_OBS>
+ <STDV_OBS>  0.763232112     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         273 </NUM>
+ <MEAN>  0.350971311     </MEAN>
+ <STDV>   20291.2344     </STDV>
+ <BIAS>  0.706525385     </BIAS>
+ <RMSE>  0.593994260     </RMSE>
+ <CORR>   1.21364742E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         273 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.696799934     </BIAS>
+ <RMSE>  0.600128889     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.357299060     </MEAN_OBS>
+ <STDV_OBS>  0.675584614     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.322996974     </MEAN>
+ <STDV>   1.21364742E+11 </STDV>
+ <BIAS>  0.660439372     </BIAS>
+ <RMSE>  0.574271142     </RMSE>
+ <CORR>   18942.8574     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.665047646     </BIAS>
+ <RMSE>  0.564559698     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.239492700     </MEAN_OBS>
+ <STDV_OBS>  0.609368682     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.294023454     </MEAN>
+ <STDV>   1.34164185E+11 </STDV>
+ <BIAS>  0.421628535     </BIAS>
+ <RMSE>  0.736169696     </RMSE>
+ <CORR>   1.33732704E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.406052858     </BIAS>
+ <RMSE>  0.744911253     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.194160655     </MEAN_OBS>
+ <STDV_OBS>  0.542807937     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.253006458     </MEAN>
+ <STDV>  -4.09193745E-35 </STDV>
+ <BIAS>  0.462145478     </BIAS>
+ <RMSE>  0.699272275     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.371610314     </BIAS>
+ <RMSE>  0.735565543     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.385766506     </MEAN_OBS>
+ <STDV_OBS>  0.731902897     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>  0.374156237     </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>  0.744817853     </BIAS>
+ <RMSE>  0.671892285     </RMSE>
+ <CORR>   1.21364095E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.764276385     </BIAS>
+ <RMSE>  0.645720541     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.37956415E-02 </MEAN_OBS>
+ <STDV_OBS>  0.303558320     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   9.85757411E-02 </MEAN>
+ <STDV>   20472.8457     </STDV>
+ <BIAS>  0.291690111     </BIAS>
+ <RMSE>  0.441787928     </RMSE>
+ <CORR>  -4.07953277E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         274 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.277473986     </BIAS>
+ <RMSE>  0.405715376     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.15217339E-02 </MEAN_OBS>
+ <STDV_OBS>  0.124367684     </STDV_OBS>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   4.80925739E-02 </MEAN>
+ <STDV>   1.33732704E+11 </STDV>
+ <BIAS>  0.135167614     </BIAS>
+ <RMSE>  0.398382366     </RMSE>
+ <CORR>   1.33449523E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26422 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.117250927     </BIAS>
+ <RMSE>  0.425234348     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.285507262     </MEAN_OBS>
+ <STDV_OBS>  0.507851899     </STDV_OBS>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.228368953     </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.648193300     </BIAS>
+ <RMSE>  0.638084531     </RMSE>
+ <CORR>   1.21364480E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26229 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.689480424     </BIAS>
+ <RMSE>  0.572055042     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.137318864     </MEAN_OBS>
+ <STDV_OBS>  0.399768203     </STDV_OBS>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.135064915     </MEAN>
+ <STDV>   20291.8262     </STDV>
+ <BIAS>  0.228331447     </BIAS>
+ <RMSE>  0.727640629     </RMSE>
+ <CORR>   1.28557834E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26346 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.319498450     </BIAS>
+ <RMSE>  0.609909236     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.77536216E-02 </MEAN_OBS>
+ <STDV_OBS>   9.83934104E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.61823514E-02 </MEAN>
+ <STDV>   1.21380610E+11 </STDV>
+ <BIAS>  0.137069687     </BIAS>
+ <RMSE>  0.110245913     </RMSE>
+ <CORR>   1.34164193E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26429 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.110026851     </BIAS>
+ <RMSE>  0.146432489     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.78260860E-03 </MEAN_OBS>
+ <STDV_OBS>   6.42292202E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   1.58905592E-02 </MEAN>
+ <STDV>   1.28557834E+11 </STDV>
+ <BIAS>   6.59167841E-02 </BIAS>
+ <RMSE>  0.500016809     </RMSE>
+ <CORR>   1.28556917E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26544 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>   7.10740313E-02 </BIAS>
+ <RMSE>  0.434085846     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.59420297E-02 </MEAN_OBS>
+ <STDV_OBS>  0.138978809     </STDV_OBS>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   5.14174923E-02 </MEAN>
+ <STDV>   1.21364996E+11 </STDV>
+ <BIAS>  0.109744072     </BIAS>
+ <RMSE>  0.804578304     </RMSE>
+ <CORR>  -4.07940850E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26424 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>   9.92983952E-02 </BIAS>
+ <RMSE>  0.773905456     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.60144915E-02 </MEAN_OBS>
+ <STDV_OBS>  0.106999494     </STDV_OBS>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.90494205E-02 </MEAN>
+ <STDV>  -4.07950522E-35 </STDV>
+ <BIAS>  0.186618805     </BIAS>
+ <RMSE>  0.258386493     </RMSE>
+ <CORR>   1.33449523E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26348 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.140032917     </BIAS>
+ <RMSE>  0.307503253     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.15942014E-02 </MEAN_OBS>
+ <STDV_OBS>  0.108501770     </STDV_OBS>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.85516509E-02 </MEAN>
+ <STDV>  -4.07940850E-35 </STDV>
+ <BIAS>  0.106020831     </BIAS>
+ <RMSE>  0.654979050     </RMSE>
+ <CORR>   1.22123067E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26425 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>   7.80995041E-02 </BIAS>
+ <RMSE>  0.728123307     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.189130455     </MEAN_OBS>
+ <STDV_OBS>  0.432813615     </STDV_OBS>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.152050361     </MEAN>
+ <STDV>   1.33449523E+11 </STDV>
+ <BIAS>  0.384377152     </BIAS>
+ <RMSE>  0.663780689     </RMSE>
+ <CORR>   1.33732696E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26313 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.414533913     </BIAS>
+ <RMSE>  0.605195582     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.161594197     </MEAN_OBS>
+ <STDV_OBS>  0.437364280     </STDV_OBS>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.144955769     </MEAN>
+ <STDV>   20291.0488     </STDV>
+ <BIAS>  0.519967020     </BIAS>
+ <RMSE>  0.779728591     </RMSE>
+ <CORR>   20291.2363     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26406 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.580429792     </BIAS>
+ <RMSE>  0.722537577     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.78260562E-02 </MEAN_OBS>
+ <STDV_OBS>  0.276162803     </STDV_OBS>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.76714417E-02 </MEAN>
+ <STDV>   1.21382044E+11 </STDV>
+ <BIAS>  0.388861567     </BIAS>
+ <RMSE>  0.444465637     </RMSE>
+ <CORR>   1.21364488E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26324 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.220591977     </BIAS>
+ <RMSE>  0.698060155     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.82608688E-02 </MEAN_OBS>
+ <STDV_OBS>  0.367949069     </STDV_OBS>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.122054778     </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.256867647     </BIAS>
+ <RMSE>  0.779932976     </RMSE>
+ <CORR>   1.31204309E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26403 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.219673827     </BIAS>
+ <RMSE>  0.808450818     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.155797079     </MEAN_OBS>
+ <STDV_OBS>  0.231892556     </STDV_OBS>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.28447098E-02 </MEAN>
+ <STDV>   1.21364488E+11 </STDV>
+ <BIAS>  0.330317199     </BIAS>
+ <RMSE>  0.379755139     </RMSE>
+ <CORR>   1.28557834E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26335 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.320177704     </BIAS>
+ <RMSE>  0.446323544     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.34782635E-03 </MEAN_OBS>
+ <STDV_OBS>   7.36683980E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   1.99294481E-02 </MEAN>
+ <STDV>   1.31204309E+11 </STDV>
+ <BIAS>   7.49154016E-02 </BIAS>
+ <RMSE>  0.251147866     </RMSE>
+ <CORR>   1.21364996E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26446 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>   7.26637766E-02 </BIAS>
+ <RMSE>  0.302890301     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.194927588     </MEAN_OBS>
+ <STDV_OBS>  0.499854296     </STDV_OBS>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.210098237     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.551292539     </BIAS>
+ <RMSE>  0.527615190     </RMSE>
+ <CORR>  -4.09193745E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26238 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.515440524     </BIAS>
+ <RMSE>  0.479282200     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.96376865E-02 </MEAN_OBS>
+ <STDV_OBS>  0.223081127     </STDV_OBS>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   8.28817859E-02 </MEAN>
+ <STDV>   1.34164193E+11 </STDV>
+ <BIAS>  0.274725080     </BIAS>
+ <RMSE>  0.159159407     </RMSE>
+ <CORR>   1.21363300E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26416 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.268492132     </BIAS>
+ <RMSE>  0.160907775     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.112681195     </MEAN_OBS>
+ <STDV_OBS>  0.291553468     </STDV_OBS>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.122222900     </MEAN>
+ <STDV>   18942.8574     </STDV>
+ <BIAS>  0.265845418     </BIAS>
+ <RMSE>  0.645849228     </RMSE>
+ <CORR>   1.22123723E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26326 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.272932172     </BIAS>
+ <RMSE>  0.602134526     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.62318940E-02 </MEAN_OBS>
+ <STDV_OBS>  0.116006121     </STDV_OBS>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   4.32976559E-02 </MEAN>
+ <STDV>   1.21363300E+11 </STDV>
+ <BIAS>  0.121142618     </BIAS>
+ <RMSE>  0.638829350     </RMSE>
+ <CORR>  -4.07950522E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26435 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>   9.73811075E-02 </BIAS>
+ <RMSE>  0.649098158     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.94927599E-02 </MEAN_OBS>
+ <STDV_OBS>  0.194455668     </STDV_OBS>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.08447877E-02 </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.194195256     </BIAS>
+ <RMSE>  0.285233766     </RMSE>
+ <CORR>   1.21382044E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26318 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.189593494     </BIAS>
+ <RMSE>  0.381064445     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.177898496     </MEAN_OBS>
+ <STDV_OBS>  0.323522359     </STDV_OBS>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.135330498     </MEAN>
+ <STDV>   1.28556917E+11 </STDV>
+ <BIAS>  0.534237623     </BIAS>
+ <RMSE>  0.423205376     </RMSE>
+ <CORR>   1.28558096E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26314 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.499918371     </BIAS>
+ <RMSE>  0.450650871     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.19565222E-02 </MEAN_OBS>
+ <STDV_OBS>   7.57736787E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26551 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   1.97715275E-02 </MEAN>
+ <STDV>   1.33732696E+11 </STDV>
+ <BIAS>   7.14752078E-02 </BIAS>
+ <RMSE>  0.634787261     </RMSE>
+ <CORR>  -4.07947250E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26551 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>   7.36277848E-02 </BIAS>
+ <RMSE>  0.605976641     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.37681186E-02 </MEAN_OBS>
+ <STDV_OBS>  0.139175549     </STDV_OBS>
+ <EXP>
+ <ID>       26421 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   5.59922941E-02 </MEAN>
+ <STDV>   1.28558096E+11 </STDV>
+ <BIAS>  0.179720104     </BIAS>
+ <RMSE>  0.380552292     </RMSE>
+ <CORR>   1.22073129E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26421 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.165394306     </BIAS>
+ <RMSE>  0.371190906     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.39130352E-02 </MEAN_OBS>
+ <STDV_OBS>   9.04350281E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   2.94335131E-02 </MEAN>
+ <STDV>  -4.07947250E-35 </STDV>
+ <BIAS>   9.50152948E-02 </BIAS>
+ <RMSE>  0.617165804     </RMSE>
+ <CORR>  -4.07953277E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26436 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>   7.18804151E-02 </BIAS>
+ <RMSE>  0.706512868     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.28985448E-02 </MEAN_OBS>
+ <STDV_OBS>  0.191720650     </STDV_OBS>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   6.24807775E-02 </MEAN>
+ <STDV>   1.22073129E+11 </STDV>
+ <BIAS>  0.144364282     </BIAS>
+ <RMSE>  0.528705299     </RMSE>
+ <CORR>   1.33449523E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26339 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.178682834     </BIAS>
+ <RMSE>  0.444576293     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.103985511     </MEAN_OBS>
+ <STDV_OBS>  0.412783533     </STDV_OBS>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.142969504     </MEAN>
+ <STDV>   1.28557834E+11 </STDV>
+ <BIAS>  0.295477152     </BIAS>
+ <RMSE>  0.812137306     </RMSE>
+ <CORR>   20291.0488     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26503 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.352975160     </BIAS>
+ <RMSE>  0.694911182     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.38405871E-02 </MEAN_OBS>
+ <STDV_OBS>   8.55753943E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.44216488E-02 </MEAN>
+ <STDV>   1.33449523E+11 </STDV>
+ <BIAS>  0.112352684     </BIAS>
+ <RMSE>  0.475226372     </RMSE>
+ <CORR>  -4.07940850E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26447 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.109935872     </BIAS>
+ <RMSE>  0.464676052     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.222101435     </MEAN_OBS>
+ <STDV_OBS>  0.676660299     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.305870563     </MEAN>
+ <STDV>   1.21363554E+11 </STDV>
+ <BIAS>  0.507036805     </BIAS>
+ <RMSE>  0.734585464     </RMSE>
+ <CORR>   20291.8281     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.512780488     </BIAS>
+ <RMSE>  0.724375188     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.430434614     </MEAN_OBS>
+ <STDV_OBS>  0.511182308     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.281494588     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.564503551     </BIAS>
+ <RMSE>  0.615454733     </RMSE>
+ <CORR>   1.33449523E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.566030800     </BIAS>
+ <RMSE>  0.602307796     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.267391294     </MEAN_OBS>
+ <STDV_OBS>  0.604025424     </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.260003328     </MEAN>
+ <STDV>   1.33377696E+11 </STDV>
+ <BIAS>  0.498640239     </BIAS>
+ <RMSE>  0.684710026     </RMSE>
+ <CORR>   1.21364087E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.487106055     </BIAS>
+ <RMSE>  0.686949611     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.839455724     </STDV_OBS>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.462456703     </MEAN>
+ <STDV>   20291.8887     </STDV>
+ <BIAS>  0.876691878     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   20291.0488     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.837933540     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.315941811     </MEAN_OBS>
+ <STDV_OBS>  0.662933290     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.300727665     </MEAN>
+ <STDV>   1.31327517E+11 </STDV>
+ <BIAS>  0.567980289     </BIAS>
+ <RMSE>  0.724223852     </RMSE>
+ <CORR>   1.28557834E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.521669984     </BIAS>
+ <RMSE>  0.758371234     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.500362217     </MEAN_OBS>
+ <STDV_OBS>  0.831137657     </STDV_OBS>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.411705226     </MEAN>
+ <STDV>   1.28557834E+11 </STDV>
+ <BIAS>  0.711544037     </BIAS>
+ <RMSE>  0.773257732     </RMSE>
+ <CORR>   1.22123723E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.743682981     </BIAS>
+ <RMSE>  0.748889327     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.414130211     </MEAN_OBS>
+ <STDV_OBS>  0.982532978     </STDV_OBS>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.385942757     </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.658743143     </BIAS>
+ <RMSE>  0.798244298     </RMSE>
+ <CORR>  -4.07950493E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.641797006     </BIAS>
+ <RMSE>  0.811954200     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.222101405     </MEAN_OBS>
+ <STDV_OBS>  0.595018983     </STDV_OBS>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.277901739     </MEAN>
+ <STDV>   1.22123723E+11 </STDV>
+ <BIAS>  0.460115790     </BIAS>
+ <RMSE>  0.676481366     </RMSE>
+ <CORR>   1.21363554E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.489242673     </BIAS>
+ <RMSE>  0.633656204     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.08695783E-02 </MEAN_OBS>
+ <STDV_OBS>  0.365800053     </STDV_OBS>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.105805546     </MEAN>
+ <STDV>  -4.07950493E-35 </STDV>
+ <BIAS>  0.239891395     </BIAS>
+ <RMSE>  0.827468395     </RMSE>
+ <CORR>   20291.8281     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.205791339     </BIAS>
+ <RMSE>  0.858682334     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.81159396E-02 </MEAN_OBS>
+ <STDV_OBS>  0.243650690     </STDV_OBS>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   6.55579269E-02 </MEAN>
+ <STDV>   1.21363554E+11 </STDV>
+ <BIAS>  0.227630302     </BIAS>
+ <RMSE>  0.519724309     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.217893422     </BIAS>
+ <RMSE>  0.521148324     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.302898556     </MEAN_OBS>
+ <STDV_OBS>  0.754708171     </STDV_OBS>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.292884231     </MEAN>
+ <STDV>   20291.8281     </STDV>
+ <BIAS>  0.591886818     </BIAS>
+ <RMSE>  0.688962400     </RMSE>
+ <CORR>   1.34164193E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.647495508     </BIAS>
+ <RMSE>  0.636795044     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.390941918     </MEAN_OBS>
+ <STDV_OBS>  0.897790968     </STDV_OBS>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.349976808     </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>  0.807454765     </BIAS>
+ <RMSE>  0.623408854     </RMSE>
+ <CORR>   1.33377696E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.789177477     </BIAS>
+ <RMSE>  0.644720674     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.227173850     </MEAN_OBS>
+ <STDV_OBS>  0.645709753     </STDV_OBS>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.262024194     </MEAN>
+ <STDV>   1.34164193E+11 </STDV>
+ <BIAS>  0.471394181     </BIAS>
+ <RMSE>  0.720286191     </RMSE>
+ <CORR>  -4.07953277E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.472550392     </BIAS>
+ <RMSE>  0.721413016     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.437680990     </MEAN_OBS>
+ <STDV_OBS>  0.706388652     </STDV_OBS>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.307726353     </MEAN>
+ <STDV>   1.33377696E+11 </STDV>
+ <BIAS>  0.651477575     </BIAS>
+ <RMSE>  0.727524996     </RMSE>
+ <CORR>   1.28557834E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.638955772     </BIAS>
+ <RMSE>  0.737138808     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.266666651     </MEAN_OBS>
+ <STDV_OBS>  0.631003559     </STDV_OBS>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.252934933     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.508950531     </BIAS>
+ <RMSE>  0.736513793     </RMSE>
+ <CORR>   20291.2363     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.475640953     </BIAS>
+ <RMSE>  0.751182139     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.185869530     </MEAN_OBS>
+ <STDV_OBS>  0.440010518     </STDV_OBS>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.171265975     </MEAN>
+ <STDV>   1.28557834E+11 </STDV>
+ <BIAS>  0.446845025     </BIAS>
+ <RMSE>  0.625909865     </RMSE>
+ <CORR>   1.22123723E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.425114244     </BIAS>
+ <RMSE>  0.632373095     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.105434813     </MEAN_OBS>
+ <STDV_OBS>  0.423391640     </STDV_OBS>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.158102542     </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.338324130     </BIAS>
+ <RMSE>  0.706057012     </RMSE>
+ <CORR>  -4.07950493E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.284631103     </BIAS>
+ <RMSE>  0.741559565     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.203623191     </MEAN_OBS>
+ <STDV_OBS>  0.608037472     </STDV_OBS>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.214868069     </MEAN>
+ <STDV>   1.22123723E+11 </STDV>
+ <BIAS>  0.476975769     </BIAS>
+ <RMSE>  0.769118667     </RMSE>
+ <CORR>   1.21363554E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.401470244     </BIAS>
+ <RMSE>  0.772009432     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113043509     </MEAN_OBS>
+ <STDV_OBS>  0.424792141     </STDV_OBS>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.153147325     </MEAN>
+ <STDV>  -4.07950493E-35 </STDV>
+ <BIAS>  0.300704002     </BIAS>
+ <RMSE>  0.744142771     </RMSE>
+ <CORR>   20291.8281     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.291390657     </BIAS>
+ <RMSE>  0.737084925     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.38405916E-02 </MEAN_OBS>
+ <STDV_OBS>  0.398070604     </STDV_OBS>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.113347583     </MEAN>
+ <STDV>   1.21363554E+11 </STDV>
+ <BIAS>  0.263783962     </BIAS>
+ <RMSE>  0.771038115     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.276908457     </BIAS>
+ <RMSE>  0.719405770     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.115217410     </MEAN_OBS>
+ <STDV_OBS>  0.552574515     </STDV_OBS>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.165640831     </MEAN>
+ <STDV>   20291.8281     </STDV>
+ <BIAS>  0.326711982     </BIAS>
+ <RMSE>  0.803477585     </RMSE>
+ <CORR>   1.34164193E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.385581255     </BIAS>
+ <RMSE>  0.725499153     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.16666754E-02 </MEAN_OBS>
+ <STDV_OBS>  0.254929930     </STDV_OBS>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   7.02541098E-02 </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>  0.172679260     </BIAS>
+ <RMSE>  0.830967963     </RMSE>
+ <CORR>   1.33377696E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.131804928     </BIAS>
+ <RMSE>  0.869751096     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.231159508     </MEAN_OBS>
+ <STDV_OBS>  0.493304580     </STDV_OBS>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.170899719     </MEAN>
+ <STDV>   1.34164193E+11 </STDV>
+ <BIAS>  0.495472312     </BIAS>
+ <RMSE>  0.567741990     </RMSE>
+ <CORR>  -4.07953277E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.472754300     </BIAS>
+ <RMSE>  0.582881927     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.177536219     </MEAN_OBS>
+ <STDV_OBS>  0.626502872     </STDV_OBS>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.239443749     </MEAN>
+ <STDV>   1.33377696E+11 </STDV>
+ <BIAS>  0.439130336     </BIAS>
+ <RMSE>  0.739446938     </RMSE>
+ <CORR>   1.28557834E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.429712683     </BIAS>
+ <RMSE>  0.726535916     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.169202834     </MEAN_OBS>
+ <STDV_OBS>  0.517672002     </STDV_OBS>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.194606483     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.417721957     </BIAS>
+ <RMSE>  0.655701220     </RMSE>
+ <CORR>   20291.2363     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.406685472     </BIAS>
+ <RMSE>  0.665687501     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.103260875     </MEAN_OBS>
+ <STDV_OBS>  0.417683750     </STDV_OBS>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.145018086     </MEAN>
+ <STDV>   1.28557834E+11 </STDV>
+ <BIAS>  0.337296635     </BIAS>
+ <RMSE>  0.749903262     </RMSE>
+ <CORR>   1.22123723E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.241085216     </BIAS>
+ <RMSE>  0.816396058     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108333349     </MEAN_OBS>
+ <STDV_OBS>  0.487576276     </STDV_OBS>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.139421508     </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.339953810     </BIAS>
+ <RMSE>  0.684825301     </RMSE>
+ <CORR>  -4.07950493E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.401924431     </BIAS>
+ <RMSE>  0.588156641     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.76811549E-02 </MEAN_OBS>
+ <STDV_OBS>  0.244734824     </STDV_OBS>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   6.24291040E-02 </MEAN>
+ <STDV>   1.22123723E+11 </STDV>
+ <BIAS>  0.250666469     </BIAS>
+ <RMSE>  0.585756302     </RMSE>
+ <CORR>   1.21363554E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.210537091     </BIAS>
+ <RMSE>  0.623846889     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.81159496E-02 </MEAN_OBS>
+ <STDV_OBS>  0.334744394     </STDV_OBS>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.32957754E-02 </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>  0.239839986     </BIAS>
+ <RMSE>  0.739581048     </RMSE>
+ <CORR>   20291.8281     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.244838431     </BIAS>
+ <RMSE>  0.701340437     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.05797165E-03 </MEAN_OBS>
+ <STDV_OBS>  0.192391783     </STDV_OBS>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   4.84043173E-02 </MEAN>
+ <STDV>   1.21363554E+11 </STDV>
+ <BIAS>  0.187811837     </BIAS>
+ <RMSE>  0.638181508     </RMSE>
+ <CORR>  -4.01761670E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.168145165     </BIAS>
+ <RMSE>  0.671982110     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.169565201     </MEAN_OBS>
+ <STDV_OBS>  0.420458585     </STDV_OBS>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.144069210     </MEAN>
+ <STDV>   20291.8281     </STDV>
+ <BIAS>  0.401558012     </BIAS>
+ <RMSE>  0.622348964     </RMSE>
+ <CORR>   1.34164193E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.391378313     </BIAS>
+ <RMSE>  0.649784029     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.05797258E-02 </MEAN_OBS>
+ <STDV_OBS>  0.467331022     </STDV_OBS>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.174578622     </MEAN>
+ <STDV>  -4.01761670E-35 </STDV>
+ <BIAS>  0.438410550     </BIAS>
+ <RMSE>  0.540421903     </RMSE>
+ <CORR>   1.33377696E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.402438134     </BIAS>
+ <RMSE>  0.509317994     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.45652723E-02 </MEAN_OBS>
+ <STDV_OBS>  0.598332047     </STDV_OBS>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.212728843     </MEAN>
+ <STDV>   1.34164193E+11 </STDV>
+ <BIAS>  0.397095680     </BIAS>
+ <RMSE>  0.670474827     </RMSE>
+ <CORR>  -4.07953277E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.545261621     </BIAS>
+ <RMSE>  0.413066864     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.98550972E-02 </MEAN_OBS>
+ <STDV_OBS>  0.461121619     </STDV_OBS>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.167135492     </MEAN>
+ <STDV>   1.33377696E+11 </STDV>
+ <BIAS>  0.576012194     </BIAS>
+ <RMSE>  0.511158049     </RMSE>
+ <CORR>   1.21363300E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.397711337     </BIAS>
+ <RMSE>  0.509739161     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.121739171     </MEAN_OBS>
+ <STDV_OBS>  0.439274371     </STDV_OBS>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.158354282     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.367938459     </BIAS>
+ <RMSE>  0.450402319     </RMSE>
+ <CORR>   20291.2363     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.441670448     </BIAS>
+ <RMSE>  0.375180840     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125000030     </MEAN_OBS>
+ <STDV_OBS>  0.443722099     </STDV_OBS>
+ <EXP>
+ <ID>       10356 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.152134463     </MEAN>
+ <STDV>   1.21363300E+11 </STDV>
+ <BIAS>  0.418107361     </BIAS>
+ <RMSE>  0.493191153     </RMSE>
+ <CORR>   1.22123723E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10356 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.444741070     </BIAS>
+ <RMSE>  0.489374429     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.131884053     </MEAN_OBS>
+ <STDV_OBS>  0.359239310     </STDV_OBS>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.138775155     </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.379355490     </BIAS>
+ <RMSE>  0.708318770     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.445735633     </BIAS>
+ <RMSE>  0.532991886     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.112681180     </MEAN_OBS>
+ <STDV_OBS>  0.370750159     </STDV_OBS>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.130821362     </MEAN>
+ <STDV>   1.22123723E+11 </STDV>
+ <BIAS>  0.329899251     </BIAS>
+ <RMSE>  0.654440224     </RMSE>
+ <CORR>   1.21363554E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.303545952     </BIAS>
+ <RMSE>  0.690508068     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.199637741     </MEAN_OBS>
+ <STDV_OBS>  0.394713044     </STDV_OBS>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.146257848     </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>  0.398508340     </BIAS>
+ <RMSE>  0.756168008     </RMSE>
+ <CORR>   20291.8281     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.443899423     </BIAS>
+ <RMSE>  0.684568822     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.120289877     </MEAN_OBS>
+ <STDV_OBS>  0.316758245     </STDV_OBS>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.114563413     </MEAN>
+ <STDV>   1.21363554E+11 </STDV>
+ <BIAS>  0.418498993     </BIAS>
+ <RMSE>  0.736360371     </RMSE>
+ <CORR>  -4.01761670E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.518636465     </BIAS>
+ <RMSE>  0.543972969     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.79710156E-02 </MEAN_OBS>
+ <STDV_OBS>  0.291828305     </STDV_OBS>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.35102627E-02 </MEAN>
+ <STDV>   20291.8281     </STDV>
+ <BIAS>  0.217020035     </BIAS>
+ <RMSE>  0.743235111     </RMSE>
+ <CORR>   1.34164193E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.211543098     </BIAS>
+ <RMSE>  0.693856537     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.42322108E-02 </MEAN_OBS>
+ <STDV_OBS>  0.259245902     </STDV_OBS>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         267 </NUM>
+ <MEAN>   6.01922162E-02 </MEAN>
+ <STDV>  -4.01761670E-35 </STDV>
+ <BIAS>  0.160278410     </BIAS>
+ <RMSE>  0.590633392     </RMSE>
+ <CORR>   1.33377696E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         267 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.232533976     </BIAS>
+ <RMSE>  0.521424651     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.22463930E-02 </MEAN_OBS>
+ <STDV_OBS>  0.344250262     </STDV_OBS>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.113072984     </MEAN>
+ <STDV>   1.34164193E+11 </STDV>
+ <BIAS>  0.317197412     </BIAS>
+ <RMSE>  0.404222697     </RMSE>
+ <CORR>  -4.07953277E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.311309159     </BIAS>
+ <RMSE>  0.511240244     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150724620     </MEAN_OBS>
+ <STDV_OBS>  0.781353116     </STDV_OBS>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.264746368     </MEAN>
+ <STDV>   1.33377696E+11 </STDV>
+ <BIAS>  0.689049304     </BIAS>
+ <RMSE>  0.440848768     </RMSE>
+ <CORR>   1.21363300E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.707899988     </BIAS>
+ <RMSE>  0.419938385     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.149637699     </MEAN_OBS>
+ <STDV_OBS>  0.436957240     </STDV_OBS>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.131600603     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.482549042     </BIAS>
+ <RMSE>  0.356920451     </RMSE>
+ <CORR>   20291.2363     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.472820461     </BIAS>
+ <RMSE>  0.357685447     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.77536428E-02 </MEAN_OBS>
+ <STDV_OBS>  0.435303211     </STDV_OBS>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.166022092     </MEAN>
+ <STDV>   1.21363300E+11 </STDV>
+ <BIAS>  0.465684414     </BIAS>
+ <RMSE>  0.566195250     </RMSE>
+ <CORR>   1.22123723E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.355603665     </BIAS>
+ <RMSE>  0.613749266     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100724652     </MEAN_OBS>
+ <STDV_OBS>  0.275659591     </STDV_OBS>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.103321478     </MEAN>
+ <STDV>   20291.2363     </STDV>
+ <BIAS>  0.272184789     </BIAS>
+ <RMSE>  0.601085782     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.262988091     </BIAS>
+ <RMSE>  0.595500708     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.468840569     </MEAN_OBS>
+ <STDV_OBS>   1.09233010     </STDV_OBS>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.471351743     </MEAN>
+ <STDV>   1.22123723E+11 </STDV>
+ <BIAS>  0.809648037     </BIAS>
+ <RMSE>  0.695018589     </RMSE>
+ <CORR>   1.21363554E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.793555140     </BIAS>
+ <RMSE>  0.707292676     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.07246442E-02 </MEAN_OBS>
+ <STDV_OBS>  0.287868947     </STDV_OBS>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.116125107     </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>  0.322328031     </BIAS>
+ <RMSE>  0.276876807     </RMSE>
+ <CORR>   20291.8281     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.306147337     </BIAS>
+ <RMSE>  0.347112536     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.52174056E-02 </MEAN_OBS>
+ <STDV_OBS>  0.331310689     </STDV_OBS>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.115135096     </MEAN>
+ <STDV>   1.21363554E+11 </STDV>
+ <BIAS>  0.337592244     </BIAS>
+ <RMSE>  0.228606060     </RMSE>
+ <CORR>  -4.01761670E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.323014528     </BIAS>
+ <RMSE>  0.370164931     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135144934     </MEAN_OBS>
+ <STDV_OBS>  0.432977498     </STDV_OBS>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.144068375     </MEAN>
+ <STDV>   20291.8281     </STDV>
+ <BIAS>  0.380847842     </BIAS>
+ <RMSE>  0.559261084     </RMSE>
+ <CORR>   1.34164193E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.372126043     </BIAS>
+ <RMSE>  0.641678154     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.109420314     </MEAN_OBS>
+ <STDV_OBS>  0.362425804     </STDV_OBS>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.139076576     </MEAN>
+ <STDV>  -4.01761670E-35 </STDV>
+ <BIAS>  0.325461507     </BIAS>
+ <RMSE>  0.549931586     </RMSE>
+ <CORR>   1.33377696E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.332997233     </BIAS>
+ <RMSE>  0.503438115     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.200000003     </MEAN_OBS>
+ <STDV_OBS>   8.73450714E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1480 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   3.90619040E-04 </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>   1.89665221E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   1.21363309E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1480 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>           5 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>   7.84010801E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.395652056     </MEAN_OBS>
+ <STDV_OBS>  0.773675978     </STDV_OBS>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.306299806     </MEAN>
+ <STDV>   1.21363309E+11 </STDV>
+ <BIAS>  0.604069054     </BIAS>
+ <RMSE>  0.783549249     </RMSE>
+ <CORR>   1.33733343E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.606441975     </BIAS>
+ <RMSE>  0.781431854     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.311956435     </MEAN_OBS>
+ <STDV_OBS>  0.689133883     </STDV_OBS>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.355657727     </MEAN>
+ <STDV>   1.21364087E+11 </STDV>
+ <BIAS>  0.565595210     </BIAS>
+ <RMSE>  0.646588564     </RMSE>
+ <CORR>   1.22123067E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.564819574     </BIAS>
+ <RMSE>  0.637182534     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.376045495     </MEAN_OBS>
+ <STDV_OBS>  0.814190209     </STDV_OBS>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         263 </NUM>
+ <MEAN>  0.345785290     </MEAN>
+ <STDV>   1.33733343E+11 </STDV>
+ <BIAS>  0.640344977     </BIAS>
+ <RMSE>  0.687087715     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         263 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.656325400     </BIAS>
+ <RMSE>  0.661298990     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.156521767     </MEAN_OBS>
+ <STDV_OBS>  0.471937984     </STDV_OBS>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.170713514     </MEAN>
+ <STDV>   1.22123067E+11 </STDV>
+ <BIAS>  0.431744188     </BIAS>
+ <RMSE>  0.637018442     </RMSE>
+ <CORR>   1.31327517E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.378535867     </BIAS>
+ <RMSE>  0.618698716     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.217391282     </MEAN_OBS>
+ <STDV_OBS>  0.609555304     </STDV_OBS>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.247820258     </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>  0.451651961     </BIAS>
+ <RMSE>  0.738127530     </RMSE>
+ <CORR>   20472.9082     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.440475583     </BIAS>
+ <RMSE>  0.747442424     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.184782654     </MEAN_OBS>
+ <STDV_OBS>  0.481405735     </STDV_OBS>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.168740183     </MEAN>
+ <STDV>   1.31327517E+11 </STDV>
+ <BIAS>  0.436588913     </BIAS>
+ <RMSE>  0.677038550     </RMSE>
+ <CORR>  -4.07953277E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.462666512     </BIAS>
+ <RMSE>  0.621036530     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.43478392E-02 </MEAN_OBS>
+ <STDV_OBS>  0.354433030     </STDV_OBS>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.10165533E-02 </MEAN>
+ <STDV>   20472.9082     </STDV>
+ <BIAS>  0.278400242     </BIAS>
+ <RMSE>  0.734719753     </RMSE>
+ <CORR>  -4.07950522E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.245064497     </BIAS>
+ <RMSE>  0.735364676     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.367028713     </MEAN_OBS>
+ <STDV_OBS>  0.637145221     </STDV_OBS>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.243864924     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.696343184     </BIAS>
+ <RMSE>  0.674511611     </RMSE>
+ <CORR>   20291.8906     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.685591519     </BIAS>
+ <RMSE>  0.683327317     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.173188388     </MEAN_OBS>
+ <STDV_OBS>  0.548881710     </STDV_OBS>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.188644066     </MEAN>
+ <STDV>  -4.07950522E-35 </STDV>
+ <BIAS>  0.460849941     </BIAS>
+ <RMSE>  0.614341497     </RMSE>
+ <CORR>   1.21363309E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.425796956     </BIAS>
+ <RMSE>  0.648784876     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.117391296     </MEAN_OBS>
+ <STDV_OBS>  0.428835541     </STDV_OBS>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.126316682     </MEAN>
+ <STDV>   20291.8906     </STDV>
+ <BIAS>  0.301796645     </BIAS>
+ <RMSE>  0.768944621     </RMSE>
+ <CORR>   1.21364087E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.271162212     </BIAS>
+ <RMSE>  0.791558981     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.63768438E-02 </MEAN_OBS>
+ <STDV_OBS>  0.471302748     </STDV_OBS>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.169095084     </MEAN>
+ <STDV>   1.21363309E+11 </STDV>
+ <BIAS>  0.363470078     </BIAS>
+ <RMSE>  0.569725513     </RMSE>
+ <CORR>   1.33733343E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.373066962     </BIAS>
+ <RMSE>  0.616774738     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.110144965     </MEAN_OBS>
+ <STDV_OBS>  0.315488607     </STDV_OBS>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.65616331E-02 </MEAN>
+ <STDV>   1.21364087E+11 </STDV>
+ <BIAS>  0.378301233     </BIAS>
+ <RMSE>  0.471605092     </RMSE>
+ <CORR>   1.22123067E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.381428421     </BIAS>
+ <RMSE>  0.499021739     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.79710156E-02 </MEAN_OBS>
+ <STDV_OBS>  0.273298562     </STDV_OBS>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.51393396E-02 </MEAN>
+ <STDV>   1.33733343E+11 </STDV>
+ <BIAS>  0.211220220     </BIAS>
+ <RMSE>  0.688976109     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.211254522     </BIAS>
+ <RMSE>  0.634251475     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.85507518E-02 </MEAN_OBS>
+ <STDV_OBS>  0.237074688     </STDV_OBS>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   6.59422353E-02 </MEAN>
+ <STDV>   1.22123067E+11 </STDV>
+ <BIAS>  0.306365639     </BIAS>
+ <RMSE>  0.399553597     </RMSE>
+ <CORR>   1.31327517E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.259815067     </BIAS>
+ <RMSE>  0.445805609     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.193840578     </MEAN_OBS>
+ <STDV_OBS>  0.522284389     </STDV_OBS>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.231319323     </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>  0.370194674     </BIAS>
+ <RMSE>  0.720836937     </RMSE>
+ <CORR>   20472.9082     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.402060628     </BIAS>
+ <RMSE>  0.678442836     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.13768154E-02 </MEAN_OBS>
+ <STDV_OBS>  0.385427535     </STDV_OBS>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.138205156     </MEAN>
+ <STDV>   1.31327517E+11 </STDV>
+ <BIAS>  0.335134655     </BIAS>
+ <RMSE>  0.612352133     </RMSE>
+ <CORR>  -4.07953277E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.299526721     </BIAS>
+ <RMSE>  0.627596438     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.437318742     </MEAN_OBS>
+ <STDV_OBS>  0.757891178     </STDV_OBS>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.274070919     </MEAN>
+ <STDV>   20472.9082     </STDV>
+ <BIAS>  0.789724708     </BIAS>
+ <RMSE>  0.804581523     </RMSE>
+ <CORR>  -4.07950522E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.786393762     </BIAS>
+ <RMSE>  0.818002939     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.435144842     </MEAN_OBS>
+ <STDV_OBS>  0.875554621     </STDV_OBS>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.341268986     </MEAN>
+ <STDV>  -4.07950522E-35 </STDV>
+ <BIAS>  0.783066273     </BIAS>
+ <RMSE>  0.705165684     </RMSE>
+ <CORR>   1.21363309E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.755376160     </BIAS>
+ <RMSE>  0.725833118     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.117753625     </MEAN_OBS>
+ <STDV_OBS>  0.488879740     </STDV_OBS>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.155284181     </MEAN>
+ <STDV>   20291.8906     </STDV>
+ <BIAS>  0.290619850     </BIAS>
+ <RMSE>  0.855232656     </RMSE>
+ <CORR>   1.21364087E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.216742322     </BIAS>
+ <RMSE>  0.896988094     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.114855081     </MEAN_OBS>
+ <STDV_OBS>  0.446864784     </STDV_OBS>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.153811470     </MEAN>
+ <STDV>   1.21363309E+11 </STDV>
+ <BIAS>  0.450688958     </BIAS>
+ <RMSE>  0.666843534     </RMSE>
+ <CORR>   1.33733343E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.259197503     </BIAS>
+ <RMSE>  0.815234601     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.126449272     </MEAN_OBS>
+ <STDV_OBS>  0.569537222     </STDV_OBS>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.170466170     </MEAN>
+ <STDV>   1.21364087E+11 </STDV>
+ <BIAS>  0.461690903     </BIAS>
+ <RMSE>  0.686954379     </RMSE>
+ <CORR>   1.22123067E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.392360747     </BIAS>
+ <RMSE>  0.730039120     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.94202951E-02 </MEAN_OBS>
+ <STDV_OBS>  0.353310823     </STDV_OBS>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.81081352E-02 </MEAN>
+ <STDV>   1.33733343E+11 </STDV>
+ <BIAS>  0.199240685     </BIAS>
+ <RMSE>  0.847443819     </RMSE>
+ <CORR>   1.28541581E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.196531326     </BIAS>
+ <RMSE>  0.830883980     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.80434766E-02 </MEAN_OBS>
+ <STDV_OBS>  0.192172378     </STDV_OBS>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   5.45375943E-02 </MEAN>
+ <STDV>   1.22123067E+11 </STDV>
+ <BIAS>  0.156947225     </BIAS>
+ <RMSE>  0.721336186     </RMSE>
+ <CORR>   1.31327517E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.145942658     </BIAS>
+ <RMSE>  0.652381063     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.64493048E-02 </MEAN_OBS>
+ <STDV_OBS>  0.339298397     </STDV_OBS>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.123717487     </MEAN>
+ <STDV>   1.28541581E+11 </STDV>
+ <BIAS>  0.251848906     </BIAS>
+ <RMSE>  0.665945053     </RMSE>
+ <CORR>   20472.9082     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.252506316     </BIAS>
+ <RMSE>  0.670638800     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.70289993E-02 </MEAN_OBS>
+ <STDV_OBS>  0.321598321     </STDV_OBS>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.109641507     </MEAN>
+ <STDV>   1.31327517E+11 </STDV>
+ <BIAS>  0.242420509     </BIAS>
+ <RMSE>  0.737250507     </RMSE>
+ <CORR>  -4.07953277E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.231771693     </BIAS>
+ <RMSE>  0.697526634     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.74637672E-02 </MEAN_OBS>
+ <STDV_OBS>  0.312073797     </STDV_OBS>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   9.75565761E-02 </MEAN>
+ <STDV>   20472.9082     </STDV>
+ <BIAS>  0.272038996     </BIAS>
+ <RMSE>  0.761212111     </RMSE>
+ <CORR>  -4.07950522E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.202291191     </BIAS>
+ <RMSE>  0.784603834     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.170652166     </MEAN_OBS>
+ <STDV_OBS>  0.456585705     </STDV_OBS>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.129253566     </MEAN>
+ <STDV>  -4.07953277E-35 </STDV>
+ <BIAS>  0.476977229     </BIAS>
+ <RMSE>  0.425795853     </RMSE>
+ <CORR>   20291.8906     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.480467021     </BIAS>
+ <RMSE>  0.425834507     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.142804414     </MEAN_OBS>
+ <STDV_OBS>  0.671499252     </STDV_OBS>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         271 </NUM>
+ <MEAN>  0.281965911     </MEAN>
+ <STDV>  -4.07950522E-35 </STDV>
+ <BIAS>  0.567025125     </BIAS>
+ <RMSE>  0.646260381     </RMSE>
+ <CORR>   1.21363309E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         271 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.533164740     </BIAS>
+ <RMSE>  0.606425107     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.319202691     </MEAN_OBS>
+ <STDV_OBS>   1.03018558     </STDV_OBS>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.507517755     </MEAN>
+ <STDV>   20291.8906     </STDV>
+ <BIAS>  0.758225262     </BIAS>
+ <RMSE>  0.710679054     </RMSE>
+ <CORR>   1.21364087E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.733431458     </BIAS>
+ <RMSE>  0.741354942     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.127173930     </MEAN_OBS>
+ <STDV_OBS>  0.325417876     </STDV_OBS>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.118579149     </MEAN>
+ <STDV>   1.21363309E+11 </STDV>
+ <BIAS>  0.355891049     </BIAS>
+ <RMSE>  0.668714643     </RMSE>
+ <CORR>   1.33733343E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.385929734     </BIAS>
+ <RMSE>  0.583056688     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.219565317     </MEAN_OBS>
+ <STDV_OBS>  0.333227515     </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy46_preop_v2_test</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>  0.105797082     </MEAN>
+ <STDV>   1.21365012E+11 </STDV>
+ <BIAS>  0.517431378     </BIAS>
+ <RMSE>  0.571791172     </RMSE>
+ <CORR>   1.21380610E+11 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy46_preop_v2_test_QinLSmix</NAME>
+ <NUM>         276 </NUM>
+ <MEAN>   3.60540082E-41 </MEAN>
+ <STDV>   3.60540082E-41 </STDV>
+ <BIAS>  0.514986396     </BIAS>
+ <RMSE>  0.577179253     </RMSE>
+ <CORR>   3.60540082E-41 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
